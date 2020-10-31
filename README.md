@@ -9,3 +9,5 @@ The input image is essentially the picture of a person (it is recommened that im
 The program can be made to run over multiple images in any folder by a small addition to the program. But this sometimes doee not yield an accurate result.
 The program may not work in certain cases, this may be due to the format/size of the images.
 
+The cascade classifier I used is also attached here.
+
