@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img1 = cv2.imread('1.jpg')          #name of the image of the person's face
+img1 = cv2.imread('face.jpg')          #name of the image of the person's face
 img2 = cv2.imread('mask.png')       #.png image of the mask with black background.
 
 
